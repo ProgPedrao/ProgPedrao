@@ -17,6 +17,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://imagensemoldes.com.br/wp-content/uploads/2021/04/Figura-Pascal-PNG.png?width=676&height=676">
 </div>
   
